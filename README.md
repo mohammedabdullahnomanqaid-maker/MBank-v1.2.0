@@ -1,20 +1,22 @@
-<div align="center">🏦 MBank — v1.2.0
+<div align="center">
 
-A Beginner C++ Console Project
+# 🏦 MBank — v1.2.0
+
+### A Beginner C++ Console Project
 
 A simple banking project developed during the early stage of my programming journey.
 
-<br>"📖 About" (#-about) ·
-"🎯 Purpose" (#-purpose) ·
-"🖥️ Output" (#️-output) ·
-"🛠️ Technologies" (#️-technologies) ·
-"🚀 Run" (#-run)
+<br>
 
-</div>---
+[📖 About](#-about) · [🎯 Purpose](#-purpose) · [🖥️ Output](#️-output) · [🛠️ Technologies](#️-technologies) · [📂 Structure](#-structure) · [🚀 Run](#-run)
 
-📖 About
+</div>
 
-MBank v1.2.0 is a simple C++ Console Application developed using C++ and Visual Studio.
+---
+
+## 📖 About
+
+**MBank v1.2.0** is a simple C++ Console Application developed using **C++** and **Visual Studio**.
 
 This version continues the MBank project with a main menu, transaction operations, and user management.
 
@@ -30,7 +32,7 @@ This version continues the MBank project with a main menu, transaction operation
 
 ---
 
-🎯 Purpose
+## 🎯 Purpose
 
 The project was created to continue practicing C++ programming through a small banking-themed console application.
 
@@ -43,10 +45,11 @@ This version focuses on:
 
 ---
 
-🖥️ Output
+## 🖥️ Output
 
-🏦 Main Menu
+### 🏦 Main Menu
 
+```text
 ===========================================
           Main Menue Screen
 ===========================================
@@ -59,9 +62,11 @@ This version focuses on:
 [7] Manage User.
 [8] Logout.
 ===========================================
+```
 
-💳 Transactions Menu
+### 💳 Transactions Menu
 
+```text
 ======================================
           Transactions Menu
 ======================================
@@ -70,9 +75,11 @@ This version focuses on:
        [3] Total Balances
          [4] Main Menue
 ======================================
+```
 
-👤 Manage User Menu
+### 👤 Manage User Menu
 
+```text
 ===============================================
         Manage User Menue Screen
 ===============================================
@@ -83,23 +90,74 @@ This version focuses on:
     [5] Find User.
     [6] Main Menue.
 ===============================================
+```
 
-«💡 These interfaces are represented as console-style drawings instead of screenshots.»
-
----
-
-🛠️ Technologies
-
-- C++
-- Visual Studio
-- Console Application
+> 💡 These interfaces are represented as console-style drawings instead of screenshots.
 
 ---
 
-📂 Structure
+## 🛠️ Technologies
 
+- **C++**
+- **Visual Studio**
+- **Console Application**
+
+---
+
+## 📂 Structure
+
+```text
 MBank-v1.2.0/
 │
+├── .gitignore
+├── ConsoleApplication6.sln
+├── ConsoleApplication6.vcxproj
+└── ConsoleApplication6.vcxproj.filters
+```
+
+---
+
+## 🚀 Run
+
+### Requirements
+
+- Windows
+- Visual Studio
+- C++ development tools
+
+### Steps
+
+1. Open `ConsoleApplication6.sln`
+2. Select `Debug` or `Release`
+3. Build and run the project
+
+---
+
+## 🎓 Learning
+
+This project represents another small step in my programming journey.
+
+It helped me continue practicing:
+
+**C++ · Functions · Conditions · Loops · Input & Output · Console Menus**
+
+---
+
+## 👨‍💻 Author
+
+<div align="center">
+
+**Mohammed Abdullah Noman Qaid Mohammed**
+
+Computer Science Student — Taiz University
+
+<br>
+
+🏦 **MBank v1.2.0**
+
+*Another small step in my programming journey.*
+
+</div>│
 ├── .gitignore
 ├── ConsoleApplication6.sln
 ├── ConsoleApplication6.vcxproj
